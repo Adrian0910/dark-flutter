@@ -1,6 +1,7 @@
 void main(){
 
-  final wolverine = new Heroe( poder: 'Regeneracion', nombre: ' Logan '); // new es opcional, define nueva instancia y final es para indicar que la variables jamas cambiara de su valor
+  final wolverine = new Heroe( poder: 'Regeneracion', nombre: ' Logan '); // new es opcional, define nueva instancia y 
+  //final es para indicar que la variables jamas cambiara de su valor
 
 print(wolverine);
 
